@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">02Septiembre2023</string>
+    <string name="etProducto">Producto</string>
+    <string name="etPrecio">Precio</string>
+    <string name="etCantidad">Cantidad</string>
+    <string name="btnTotal">Total</string>
+    <string name="tvBruto">Bruto</string>
+    <string name="tvIVA">IVA</string>
+    <string name="btnRegresar">Regresar</string>
+</resources>
